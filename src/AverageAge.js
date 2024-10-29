@@ -12,7 +12,7 @@ const average =total /userU.length;
       {/* {userA.map(createCardAge)} */}
       <div className="break"></div>
       <div className="card">
-        میانگین سن ادمین ها:‌ <span data-testid="average-age">{average}</span>
+    میانگین سن یوزرها:‌ <span data-testid="average-age">{average}</span>
       </div>
     </>
   )
